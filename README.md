@@ -1,6 +1,6 @@
 Water Utility Billing Data Converter – Version 1.0
 
-Requires Python at Minimum 3.11 and Pandas Plugin
+Requires Python 3.11 (at minimum) and Pandas Plugin
 
 Python Download
 https://www.python.org/downloads/release/python-3121/
